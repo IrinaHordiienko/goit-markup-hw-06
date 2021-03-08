@@ -493,6 +493,7 @@ textarea {
 }
 
 .input-footer {
+  width: 358px;
   border-radius: 4px;
   padding: 16px 15px;
   color: var(--primary-bg-color);
