@@ -499,6 +499,7 @@ textarea {
   color: var(--primary-bg-color);
   background-color: var(--background-col);
   border: 1px solid rgba(255, 255, 255, 0.3);
+  outline: inherit;
 }
 
 .input.input-footer::placeholder {
@@ -807,6 +808,7 @@ textarea {
 .input:hover,
 .input:focus {
   border-color: var(--accent-color);
+  outline: inherit;
 }
 
 .input-logo:hover,
